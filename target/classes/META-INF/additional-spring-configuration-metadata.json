@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.freemarker.classic_compatible",
+      "type": "java.lang.String",
+      "description": "Description for spring.freemarker.classic_compatible."
+  }
+] }
